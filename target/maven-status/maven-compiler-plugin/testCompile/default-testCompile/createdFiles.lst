@@ -1,0 +1,6 @@
+sut\TSTGenerator.class
+sut\LogicTest.class
+sut\PropertiesTest.class
+sut\GraphTest.class
+sut\ISPTest.class
+sut\LineBranchTest.class
